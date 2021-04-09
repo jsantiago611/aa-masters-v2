@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Full Service Custom Construction
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      A competent and reliable team of Construction professionals based in
+      Miami, FL.
     actions:
       - type: action
         template: action
