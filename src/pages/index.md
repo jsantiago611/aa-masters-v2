@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Contact Me
+        label: View All Services
         url: /contact
         style: primary
     image: /images/guerra-removebg-preview.png
